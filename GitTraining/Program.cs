@@ -12,6 +12,8 @@ namespace GitTraining
         {
             //main
             //dev changes
+            //dev second changes
+            //dev changes to merge with test
             //test changes
         }
     }
