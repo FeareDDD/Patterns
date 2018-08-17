@@ -4,4 +4,3 @@ C:\Users\FeareD\source\repos\git\Patterns\bin\Debug\Patterns.pdb
 C:\Users\FeareD\source\repos\git\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
 C:\Users\FeareD\source\repos\git\Patterns\obj\Debug\Patterns.exe
 C:\Users\FeareD\source\repos\git\Patterns\obj\Debug\Patterns.pdb
-C:\Users\FeareD\source\repos\git\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
